@@ -63,7 +63,7 @@ Self-hosted LLM stack using Ollama + n8n
 
 ## 📫 Connect
 
-🌐 https://webrubix.ca  
+🌐 https://sugith.com  
 
 ---
 
